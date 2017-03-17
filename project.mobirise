@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Clara-Lane Lens site",
-    "currentPage": "memories series.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.8.5",
-    "uniqCompNum": 16,
+    "uniqCompNum": 21,
     "versionPublish": "3.8.5",
     "publishType": "local",
     "publishPath": "file:///Users/Clara-Lane/Desktop/School/Github:mobirise/publicatie",
@@ -51,13 +51,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -71,16 +71,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a29b97"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b3adaa!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#bab5b2"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -99,14 +99,14 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#bab5b2",
             "fontSize": "0.75",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"interior series..html\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ribmaud series.html\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -169,7 +169,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -211,13 +211,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -231,16 +231,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -259,14 +259,14 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#bab5b2",
             "fontSize": "0.75",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -292,7 +292,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"interior series..html\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ribmaud series.html\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -300,9 +300,15 @@
             "Theme"
           ],
           "_name": "gallery2",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          },
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingBottom": "4",
             "images": [
               {
                 "tags": "Awesome",
@@ -311,7 +317,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/reproductie-zoom-2000x1596-49-2000x1596-78.jpg",
                 "image": "@PROJECT_PATH@/assets/images/reproductie-zoom-2000x1596-49.jpg",
-                "caption": "Child wave",
+                "caption": "Child wave<br>30/40",
                 "active": false
               },
               {
@@ -321,27 +327,61 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/reproductie-decor-2000x1594-60-2000x1594-32.jpg",
                 "image": "@PROJECT_PATH@/assets/images/reproductie-decor-2000x1594-60.jpg",
-                "caption": "Couch thinking",
+                "caption": "Couch thinking<br>30/40",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stripes-2000x1624-10-2000x1624-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stripes-2000x1624-10.jpg",
+                "caption": "Stripes<br>30/40",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mud-2000x1614-0-2000x1614-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mud-2000x1614-0.jpg",
+                "caption": "Mud<br>30/40",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blue-stare-copy-2000x1620-52-2000x1620-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blue-stare-copy-2000x1620-52.jpg",
+                "caption": "Blue stare<br>30/40",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/race-against-youth-2000x1579-59-2000x1579-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/race-against-youth-2000x1579-59.jpg",
+                "caption": "Race against youth<br>30/40",
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "6",
             "showText": true,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery2-f",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            }
-          }
+          "allItem": "All"
         }
       ]
     },
@@ -374,7 +414,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#bab5b2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -382,7 +422,7 @@
             "showTitle": true,
             "showSubTitle": false
           },
-          "title": "CONTACT FORM",
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
           "subtitle": "",
           "form": {
             "action": "lamuff16@hotmail.com",
@@ -422,13 +462,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#efefef"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#efefef",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -442,16 +482,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a29b97"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b3adaa!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#bab5b2"
             },
             ".bg-color.transparent .link": {
-              "color": "#efefef",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -470,14 +510,14 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#bab5b2",
             "fontSize": "0.75",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -503,7 +543,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"interior series..html\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ribmaud series.html\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -546,13 +586,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#a29b97"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#b3adaa!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#bab5b2"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -574,14 +614,14 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#bab5b2",
             "fontSize": "0.75",
             "fontName": {
               "name": "Lato",
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#efefef",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": false,
@@ -607,7 +647,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"interior series..html\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ribmaud series.html\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -632,7 +672,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#bab5b2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -645,7 +685,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -670,8 +710,300 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Clara-Lane Lens</span>",
-          "text": "‘The Unknown Soldier’ oil painting <br>used as cover at <br>Universal Music Company<br>",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">visual artist in development</span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><br>‘The Unknown Soldier’ oil painting <br>used as cover at <br>Universal Music Company<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "interior series..html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8c7568"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#9c877b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#a38f84"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-g",
+          "_params": {
+            "bgColor": "#bab5b2",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12741914-10207211855766513-2628495352834181839-n-187x128-72.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"interior series..html\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ribmaud series.html\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/interior-1-2000x2478-43-2000x2478-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/interior-1-2000x2478-43.jpg",
+                "caption": "Interior 1<br>30/40",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/interior-2-2000x2516-31-2000x2516-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/interior-2-2000x2516-31.jpg",
+                "caption": "Interior 2<br>30/40",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/interior-3-2000x2492-9-2000x2492-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/interior-3-2000x2492-9.jpg",
+                "caption": "Interior 3<br>30/40",
+                "active": true
+              }
+            ],
+            "spacing": "6",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-i",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "Ribmaud series.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a29b97"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b3adaa!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#bab5b2"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#bab5b2",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12741914-10207211855766513-2628495352834181839-n-187x128-72.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">WORKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://vimeo.com/132115272\" target=\"_blank\">No Link<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"interior series..html\">Interior series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"memories series.html\">Memories series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ribmaud series.html\">Rimbaud series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Poolhouse&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Drawings</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact me.html\" aria-expanded=\"false\">CONTACT<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://beluzes.com/clara-lane-lens/\" target=\"_blank\">Beluzès</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.demunt.be/nl/news/290-opera-shell-shock-op-cd\" target=\"_blank\">Shell Shock art cover<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rimbaud-2000x2781-83-2000x2781-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rimbaud-2000x2781-83.jpg",
+                "caption": "Rimbaud<br>",
+                "active": true
+              }
+            ],
+            "spacing": "6",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-k",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         }
       ]
     }
