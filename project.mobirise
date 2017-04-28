@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Clara-Lane site",
-    "currentPage": "Work.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -515,7 +515,7 @@
             }
           },
           "title": "Clara-Lane Lens",
-          "text": "<br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">&nbsp;‘The Unknown Soldier’ oil painting<br></span>used as cover at <br>Universal Music Company<span style=\"line-height: 1.5;\">&nbsp;</span><br><br>",
+          "text": "<br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">&nbsp;‘The Unknown Soldier’ oil painting <br>used as cover at Universal Music company<br></span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
