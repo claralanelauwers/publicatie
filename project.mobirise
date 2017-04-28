@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Clara-Lane site",
-    "currentPage": "home.html",
+    "currentPage": "Work.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -32,8 +32,8 @@
   "pages": {
     "Work.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
+        "title": "copyright",
+        "meta_descr": "copyright, Clara-Lane Lens, Lens, Clara-Lane, No Link, Childhood series, ",
         "order": 2
       },
       "components": [
@@ -153,8 +153,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/interior-1-2000x2478-800x991.jpg",
-                "image": "@PROJECT_PATH@/assets/images/interior-1-2000x2478.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/interior-800x991.jpg",
+                "image": "@PROJECT_PATH@/assets/images/interior.jpg",
                 "caption": "30/40 cm",
                 "active": false
               },
@@ -163,8 +163,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/interior-2-2000x2516-800x1006.jpg",
-                "image": "@PROJECT_PATH@/assets/images/interior-2-2000x2516.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/interior-1-800x1006.jpg",
+                "image": "@PROJECT_PATH@/assets/images/interior-1.jpg",
                 "caption": "30/40 cm",
                 "active": false
               },
@@ -345,8 +345,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/blue-stare-copy-2000x1620-800x648.jpg",
-                "image": "@PROJECT_PATH@/assets/images/blue-stare-copy-2000x1620.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blue-stare-copy-metadata-800x648.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blue-stare-copy-metadata.jpg",
                 "caption": "Blue Stare, 30/40 cm",
                 "active": false
               },
@@ -355,8 +355,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/couch-thinking-2000x1594-800x637.jpg",
-                "image": "@PROJECT_PATH@/assets/images/couch-thinking-2000x1594.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/couch-thinking-metadata-800x637.jpg",
+                "image": "@PROJECT_PATH@/assets/images/couch-thinking-metadata.jpg",
                 "caption": "Couch Thinking, 30/40 cm",
                 "active": false
               },
@@ -365,18 +365,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/child-wave-2000x1596-800x638.jpg",
-                "image": "@PROJECT_PATH@/assets/images/child-wave-2000x1596.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/child-wave-metadata-800x638.jpg",
+                "image": "@PROJECT_PATH@/assets/images/child-wave-metadata.jpg",
                 "caption": "Child Wave, 30/40 cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mud-2000x1614-800x645.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mud-2000x1614.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mud-metadata-800x645.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mud-metadata.jpg",
                 "caption": "Mud, 30/40 cm",
                 "active": false
               },
@@ -385,8 +385,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/race-against-youth-2000x1579-800x631.jpg",
-                "image": "@PROJECT_PATH@/assets/images/race-against-youth-2000x1579.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/race-against-youth-metadata-800x631.jpg",
+                "image": "@PROJECT_PATH@/assets/images/race-against-youth-metadata.jpg",
                 "caption": "Race Against Youth, 30/40 cm",
                 "active": false
               },
@@ -395,10 +395,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/stripes-2000x1624-800x649.jpg",
-                "image": "@PROJECT_PATH@/assets/images/stripes-2000x1624.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stripes-metadata-800x649.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stripes-metadata.jpg",
                 "caption": "Stripes, 30/40 cm",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -431,8 +431,8 @@
     "home.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "copyright",
+        "meta_descr": "copyright, Clara-Lane Lens, Lens, Clara-Lane, Nicholas Lens, Nick Cave, Shell Shock, De Munt, La Monnaie, Universal music, The Unknown soldier,",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -467,8 +467,8 @@
             },
             ".mbr-section-text": {
               "color": "#565656",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_anchor": "header2-0",
@@ -496,7 +496,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/getfileattachment-1400x1253-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/shell-shock-cover-metadata.jpg",
               "link": "http://www.lamonnaie.be/en/news/290-opera-shell-shock-on-cd",
               "alt": "",
               "title": "Shell shock Opera, written by Nicholas Lens and libretto bij Nick Cave",
@@ -515,7 +515,7 @@
             }
           },
           "title": "Clara-Lane Lens",
-          "text": "<span style=\"line-height: 1.5;\">&nbsp;‘The Unknown Soldier’ oil painting&nbsp;</span><br>used as cover at <br>Universal Music Company<br>",
+          "text": "<br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">&nbsp;‘The Unknown Soldier’ oil painting<br></span>used as cover at <br>Universal Music Company<span style=\"line-height: 1.5;\">&nbsp;</span><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -613,8 +613,8 @@
     },
     "Contact.html": {
       "settings": {
-        "title": "Website Builder Title",
-        "meta_descr": "Website Builder Description",
+        "title": "copyright",
+        "meta_descr": "copyright, Clara-Lane Lens, Lens, Clara-Lane, contact",
         "order": 3
       },
       "components": [
